@@ -23,9 +23,8 @@ My commitment is to provide valuable and educational applications that respect u
 
 For any further questions or concerns, 
 📣 Connect & Support
-Stay updated and connect with me:
+Stay updated and connect with me: o_alamrow@hotmail.com
 
-<a href="https://www.linkedin.com/in/eng-odeh-alamrow-15aa47271/" target="_blank"> <i class="fab fa-linkedin"></i> LinkedIn </a> <a href="https://web.facebook.com/profile.php?id=61572400510270" target="_blank"> <i class="fab fa-facebook"></i> Facebook </a> <a href="https://x.com/EngOdehalamrow" target="_blank"> <i class="fab fa-x-twitter"></i> X (Twitter) </a> <a href="https://apps.microsoft.com/search/publisher?name=Eng.+Odeh+Alamrow&hl=en-us&gl=US" target="_blank"> <i class="fab fa-microsoft"></i> Microsoft Store </a>
 
 🚀 Let’s make environmental analytics accessible to all!
 
