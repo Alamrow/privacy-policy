@@ -21,4 +21,12 @@ Conclusion
 
 My commitment is to provide valuable and educational applications that respect user privacy. Thank you for trusting and using our applications.
 
-For any further questions or concerns, please contact us at: [o_alamrow@hotmail.com]
+For any further questions or concerns, 
+📣 Connect & Support
+Stay updated and connect with me:
+
+<a href="https://www.linkedin.com/in/eng-odeh-alamrow-15aa47271/" target="_blank"> <i class="fab fa-linkedin"></i> LinkedIn </a> <a href="https://web.facebook.com/profile.php?id=61572400510270" target="_blank"> <i class="fab fa-facebook"></i> Facebook </a> <a href="https://x.com/EngOdehalamrow" target="_blank"> <i class="fab fa-x-twitter"></i> X (Twitter) </a> <a href="https://apps.microsoft.com/search/publisher?name=Eng.+Odeh+Alamrow&hl=en-us&gl=US" target="_blank"> <i class="fab fa-microsoft"></i> Microsoft Store </a>
+
+🚀 Let’s make environmental analytics accessible to all!
+
+
